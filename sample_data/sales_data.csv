@@ -1,0 +1,11 @@
+OrderID,Customer,Product,Quantity,Price,Country,City
+1001,John Doe,Keyboard,2,50,USA,New York
+1002,Alice Smith,Mouse,1,25,Canada,Toronto
+1003,Michael Brown,Monitor,1,200,USA,Chicago
+1004,Sophia Lee,Keyboard,3,50,Germany,Berlin
+1005,Daniel Garcia,Mouse,2,25,Spain,Madrid
+1006,Emma Wilson,Laptop Stand,1,80,UK,London
+1007,Liam Johnson,Headphones,2,120,USA,Los Angeles
+1008,Olivia Martin,Webcam,1,70,France,Paris
+1009,Noah Brown,Keyboard,1,50,USA,Seattle
+1010,Ava Davis,Mouse,3,25,Canada,Vancouver
