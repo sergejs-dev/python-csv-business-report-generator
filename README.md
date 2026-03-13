@@ -1,6 +1,7 @@
 # CSV Business & E-commerce Report Generator
 
 Python desktop GUI application for analyzing CSV sales data and generating business reports.
+This project demonstrates a Python desktop tool for automated business reporting from CSV sales data.
 
 ## Quick Test (No Python Required)
 
