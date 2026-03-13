@@ -2,6 +2,14 @@
 
 Python desktop GUI application for analyzing CSV sales data and generating business reports.
 
+## Quick Test (No Python Required)
+
+Download the executable version and run the application instantly:
+
+➡ CSV_Business_Report_Generator_v1.0.exe
+
+No Python installation required.
+
 ## Features
 
 • Load CSV sales data  
