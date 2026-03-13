@@ -19,7 +19,7 @@ CSV_Business_Report_Generator_v1.0.exe
 
 Download from the Releases section:
 
-Releases → v1.0
+Releases → v1.0 → CSV_Business_Report_Generator_v1.0.exe
 
 ## Application Interface
 
