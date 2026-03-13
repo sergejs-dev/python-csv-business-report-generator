@@ -10,6 +10,9 @@ Download the executable version and run the application instantly:
 
 No Python installation required.
 ## Screenshot
+## Application Interface
+
+![CSV Report Generator](screenshot.png)
 
 ![Application Screenshot](screenshot.png)
 ## Features
