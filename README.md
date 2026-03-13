@@ -7,19 +7,11 @@ This project demonstrates a Python desktop tool for automated business reporting
 
 ## Download Executable
 
-You can download the application in two ways.
+## Quick Test (No Python Required)
 
-**Option 1 (quick download):**
+Download the executable version:
 
-Download directly from the repository:
-
-CSV_Business_Report_Generator_v1.0.exe
-
-**Option 2 (recommended):**
-
-Download from the Releases section:
-
-Releases → v1.0 → CSV_Business_Report_Generator_v1.0.exe
+[![Download EXE](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge)](https://github.com/sergejs-dev/python-csv-business-report-generator/releases/latest)
 
 ## Application Interface
 
