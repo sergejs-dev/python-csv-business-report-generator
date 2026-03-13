@@ -9,7 +9,9 @@ Download the executable version and run the application instantly:
 ➡ CSV_Business_Report_Generator_v1.0.exe
 
 No Python installation required.
+## Screenshot
 
+![Application Screenshot](screenshot.png)
 ## Features
 
 • Load CSV sales data  
@@ -37,9 +39,7 @@ XlsxWriter
 4. Export Excel report
 5. Export PDF report
 
-## Screenshot
 
-![Application Screenshot](screenshot.png)
 
 ## Example Use Cases
 
